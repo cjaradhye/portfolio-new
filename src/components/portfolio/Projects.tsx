@@ -24,7 +24,7 @@ Key features include:
 
 Each conversation is AI-generated but grounded in the characters' backstories, ensuring authentic dialogue that reflects their personalities, backgrounds, and evolving perspectives on contemporary issues.`,
       technologies: ["React", "Node.js", "AI APIs", "OpenAI", "WebSocket"],
-      liveUrl: "https://blurt.nahneed.com",
+      liveUrl: "https://nahneed.com/blurt",
       logoImage: "/lovable-uploads/1dde61e5-79c9-47a7-8526-ed626178f3ba.png",
       previewImage: "/lovable-uploads/7fed698e-078d-495a-891c-3b283ffb3b2f.png",
       highlights: ["AI-generated conversations", "Real-time news integration", "Character development arcs", "WhatsApp-style interface"],
