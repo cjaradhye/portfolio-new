@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a full-stack developer. Built with React, TypeScript, and Tailwind CSS.
 
+**🌐 Live Site:** [aradhyeswarup.xyz](https://aradhyeswarup.xyz)
+
+This repository contains the source code for my personal portfolio website.
+
 ## ✨ Features
 
 - **Modern Design**: Clean, professional design with smooth animations
